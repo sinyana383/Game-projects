@@ -1,3 +1,7 @@
+Запуск через visual studio community-----------------------
+
+- Перейти в Meener_game и открыть Meener_game.sln c помощью visual studio community
+
 Управление -------------------------------------------
 
 wasd - перемещение
