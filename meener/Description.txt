@@ -1,0 +1,20 @@
+Run via Visual Studio community: 
+src/Meener_game/Meener_game.sln
+
+Keyboard controls---------------------------
+
+enter - start the game
+WASD - to move
+esc - quit on lose or win
+
+Symbols-------------------------------------
+
+@   - player
+!   - objective
+*   - not opened area
+.   - 0 mines around
+1-9 - number of mines around
+X   – exploded mine
+
+win:	step on «!»
+lose:	step on mine
