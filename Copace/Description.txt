@@ -1,2 +1,0 @@
-Run game(Windows os only):
-src/Copace.exe
