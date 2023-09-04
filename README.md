@@ -10,3 +10,5 @@ With MiniLibX library(C):
 
 Command line game(C++):
 - :triangular_flag_on_post: Meener - minesweeper, but the player controls a soldier who is trying to escape without stepping on a landmine.
+
+![](https://github.com/sinyana383/Game-projects/blob/main/Meener.gif)
